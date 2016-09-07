@@ -1,0 +1,7 @@
+.vs
+/*.suo
+/uia.get/bin
+/uia.get/obj
+/uia.get/uia.get.csproj.user
+/uia.get/App_Readme
+/uia.get/Properties/PublishProfiles
